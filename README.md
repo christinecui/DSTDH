@@ -9,7 +9,7 @@ url: https://doi.org/10.1109/TCSVT.2020.3001583
 
 
 **Prerequisites**
-1.	Requirements for Caffe, pycaffe and matcaffe.
+1.	Requirements for Caffe, Pycaffe and Matcaffe.
 2.	VGG-16 pre-trained model on ILSVC12 datasets, and save it in caffemodels directory.
 
 
